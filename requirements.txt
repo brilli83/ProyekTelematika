@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+librosa
+tqdm
+noisereduce
+torch
+openpyxl
+boto3
+resampy
+pygame
